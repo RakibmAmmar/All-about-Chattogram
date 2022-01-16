@@ -1,0 +1,27 @@
+h1{
+    color: darkblue;
+    border: 5px solid red;
+    width: 300px;
+}
+
+.basic{
+	color: black;
+	font-style: italic;
+	font-size: large;
+}
+h2{
+	color: chocolate;
+}
+
+
+#reason{
+  font-size: medium;
+  color: brown;
+
+}
+
+#picture{
+	width: 400px;
+	height: 300px;
+	border: 1px solid white;
+}
